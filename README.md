@@ -21,9 +21,9 @@
 
 <p align="center">
   🎓 First-year undergraduate specializing in Computer Science and Artificial Intelligence.  
-  💻 Enthusiastic about algorithmic problem-solving, machine learning, and full-stack development.  
-  📊 Actively engaged in foundational research, prototyping, and systems design.  
-  🌐 Committed to continual intellectual growth through open-source collaboration and technical discourse.  
+  💻 Enthusiastic about algorithmic problem-solving, machine learning, and full-stack development.
+  📊 Actively engaged in foundational research, prototyping, and systems design. 
+  🌐 Committed to continual intellectual growth through open-source collaboration and technical discourse. 
   🚀 Striving to bridge theoretical constructs with pragmatic, scalable software solutions.
 </p>
 
