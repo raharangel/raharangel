@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/raharangel_/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
 
 
-<p align="center">
+<p>
   🎓 First-year undergraduate specializing in Computer Science and Artificial Intelligence.  
   💻 Enthusiastic about algorithmic problem-solving, machine learning, and full-stack development.
   📊 Actively engaged in foundational research, prototyping, and systems design. 
