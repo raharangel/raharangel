@@ -20,10 +20,11 @@
 
 
 <p align="center">
-  🚀 A passionate first-year engineering student from India 🇮🇳 passionate about coding <br>
-  🧠 Currently learning Python, C++, SQL , and Web Development (HTML+CSS+JS)<br>
-  🎯 Focused on cracking <strong>GSoC</strong> & building a strong DSA foundation<br>
-  🏋️ Also college, and side projects like a true multitasker 😄
+  🎓 First-year undergraduate specializing in Computer Science and Artificial Intelligence.  
+  💻 Enthusiastic about algorithmic problem-solving, machine learning, and full-stack development.  
+  📊 Actively engaged in foundational research, prototyping, and systems design.  
+  🌐 Committed to continual intellectual growth through open-source collaboration and technical discourse.  
+  🚀 Striving to bridge theoretical constructs with pragmatic, scalable software solutions.
 </p>
 
 ---
