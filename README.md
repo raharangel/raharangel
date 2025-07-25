@@ -18,13 +18,13 @@
   <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
   <a href="https://www.instagram.com/raharangel_/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
 
-<p align="centre">
-  🎓 First-year undergraduate specializing in Computer Science and Artificial Intelligence.
-  💻 Enthusiastic about algorithmic problem-solving, machine learning, and full-stack development.
-  📊 Actively engaged in foundational research, prototyping, and systems design. 
-  🌐 Committed to continual intellectual growth through open-source collaboration and technical discourse.
-  🚀 Striving to bridge theoretical constructs with pragmatic, scalable software solutions.
-</p>  
+<p align="center">
+  🚀 A passionate first-year engineering student from India 🇮🇳 passionate about coding <br>
+  🧠 Currently learning Python, C++, SQL , and Web Development (HTML+CSS+JS)<br>
+  🎯 Focused on cracking <strong>GSoC</strong> & building a strong DSA foundation<br>
+  🏋️ Also college, and side projects like a true multitasker 😄
+</p>
+
   
 ---
 
